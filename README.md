@@ -245,6 +245,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/haikalrfli11/Leetcode/tree/master/0075-sort-colors) |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0908-middle-of-the-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/haikalrfli11/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -346,4 +347,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/haikalrfli11/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/haikalrfli11/Leetcode/tree/master/0871-keys-and-rooms) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
