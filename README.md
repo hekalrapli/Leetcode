@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/haikalrfli11/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/haikalrfli11/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/haikalrfli11/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -276,6 +277,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/haikalrfli11/Leetcode/tree/master/0046-permutations) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 ## Enumeration
 |  |
