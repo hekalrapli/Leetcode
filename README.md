@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/haikalrfli11/Leetcode/tree/master/0020-valid-parentheses) |
 | [0742-to-lower-case](https://github.com/haikalrfli11/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/haikalrfli11/Leetcode/tree/master/0812-rotate-string) |
@@ -227,6 +228,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/haikalrfli11/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/haikalrfli11/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/haikalrfli11/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
