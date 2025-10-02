@@ -116,6 +116,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -207,6 +208,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3336-water-bottles-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
