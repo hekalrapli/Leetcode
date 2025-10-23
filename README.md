@@ -136,6 +136,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/haikalrfli11/Leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/haikalrfli11/Leetcode/tree/master/0072-edit-distance) |
 | [0451-sort-characters-by-frequency](https://github.com/haikalrfli11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/haikalrfli11/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -311,6 +312,7 @@
 | [0063-unique-paths-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/haikalrfli11/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/haikalrfli11/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/haikalrfli11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/haikalrfli11/Leetcode/tree/master/0120-triangle) |
