@@ -58,6 +58,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/haikalrfli11/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/haikalrfli11/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -115,6 +116,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/haikalrfli11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/haikalrfli11/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -152,6 +154,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/haikalrfli11/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/haikalrfli11/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haikalrfli11/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -235,6 +238,7 @@
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/haikalrfli11/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
