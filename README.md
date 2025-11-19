@@ -365,6 +365,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/haikalrfli11/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -387,6 +388,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/haikalrfli11/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haikalrfli11/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
