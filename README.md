@@ -52,6 +52,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/haikalrfli11/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/haikalrfli11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1630-arithmetic-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1651-shuffle-string](https://github.com/haikalrfli11/Leetcode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/haikalrfli11/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -97,6 +98,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1630-arithmetic-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/haikalrfli11/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/haikalrfli11/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -181,6 +183,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1630-arithmetic-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2887-sort-vowels-in-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
