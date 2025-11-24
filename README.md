@@ -414,4 +414,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/haikalrfli11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [1393-capital-gainloss](https://github.com/haikalrfli11/Leetcode/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
