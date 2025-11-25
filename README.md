@@ -360,6 +360,7 @@
 | [0565-array-nesting](https://github.com/haikalrfli11/Leetcode/tree/master/0565-array-nesting) |
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/haikalrfli11/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -421,4 +422,16 @@
 |  |
 | ------- |
 | [1393-capital-gainloss](https://github.com/haikalrfli11/Leetcode/tree/master/1393-capital-gainloss) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
