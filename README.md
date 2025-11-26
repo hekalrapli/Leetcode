@@ -362,6 +362,7 @@
 | [0871-keys-and-rooms](https://github.com/haikalrfli11/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/haikalrfli11/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haikalrfli11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -372,6 +373,7 @@
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/haikalrfli11/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/haikalrfli11/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Union Find
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/haikalrfli11/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haikalrfli11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -440,5 +443,6 @@
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/haikalrfli11/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haikalrfli11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
