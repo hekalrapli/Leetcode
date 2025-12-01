@@ -292,6 +292,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/haikalrfli11/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Heap (Priority Queue)
@@ -424,6 +425,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haikalrfli11/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/haikalrfli11/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haikalrfli11/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bucket Sort
 |  |
