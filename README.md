@@ -40,6 +40,7 @@
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/haikalrfli11/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -261,6 +262,7 @@
 | [0234-palindrome-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haikalrfli11/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/haikalrfli11/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/haikalrfli11/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -302,6 +304,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/haikalrfli11/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
@@ -416,6 +419,7 @@
 | [0234-palindrome-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haikalrfli11/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
