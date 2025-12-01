@@ -127,6 +127,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -427,6 +428,7 @@
 | [1765-merge-in-between-linked-lists](https://github.com/haikalrfli11/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haikalrfli11/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -456,4 +458,8 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/haikalrfli11/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/haikalrfli11/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
