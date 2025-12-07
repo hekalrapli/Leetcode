@@ -365,6 +365,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/haikalrfli11/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/haikalrfli11/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/haikalrfli11/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/haikalrfli11/Leetcode/tree/master/0463-island-perimeter) |
@@ -448,6 +449,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/haikalrfli11/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -461,6 +463,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/haikalrfli11/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
