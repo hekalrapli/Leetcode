@@ -447,6 +447,7 @@
 |  |
 | ------- |
 | [1393-capital-gainloss](https://github.com/haikalrfli11/Leetcode/tree/master/1393-capital-gainloss) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/haikalrfli11/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Tree
 |  |
 | ------- |
