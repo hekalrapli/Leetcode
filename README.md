@@ -109,6 +109,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/haikalrfli11/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/haikalrfli11/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/haikalrfli11/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/haikalrfli11/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
