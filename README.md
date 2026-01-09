@@ -386,6 +386,7 @@
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/haikalrfli11/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -469,6 +470,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/haikalrfli11/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -479,6 +481,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -487,6 +490,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/haikalrfli11/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0938-range-sum-of-bst](https://github.com/haikalrfli11/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/haikalrfli11/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
