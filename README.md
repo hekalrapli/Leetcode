@@ -69,6 +69,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/haikalrfli11/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/haikalrfli11/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -134,6 +135,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/haikalrfli11/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3336-water-bottles-ii) |
