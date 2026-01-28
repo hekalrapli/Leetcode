@@ -42,6 +42,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -276,6 +277,7 @@
 | [0498-diagonal-traverse](https://github.com/haikalrfli11/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
+| [0931-minimum-falling-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/haikalrfli11/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -379,6 +381,7 @@
 | [0198-house-robber](https://github.com/haikalrfli11/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
 | [0740-delete-and-earn](https://github.com/haikalrfli11/Leetcode/tree/master/0740-delete-and-earn) |
+| [0931-minimum-falling-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/haikalrfli11/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
