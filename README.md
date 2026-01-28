@@ -38,6 +38,7 @@
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/haikalrfli11/Leetcode/tree/master/0695-max-area-of-island) |
+| [0740-delete-and-earn](https://github.com/haikalrfli11/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
@@ -103,6 +104,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/haikalrfli11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
+| [0740-delete-and-earn](https://github.com/haikalrfli11/Leetcode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -376,6 +378,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haikalrfli11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/haikalrfli11/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
+| [0740-delete-and-earn](https://github.com/haikalrfli11/Leetcode/tree/master/0740-delete-and-earn) |
 | [1143-longest-common-subsequence](https://github.com/haikalrfli11/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
