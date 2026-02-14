@@ -93,6 +93,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/haikalrfli11/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3819-rotate-non-negative-elements](https://github.com/haikalrfli11/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3819-rotate-non-negative-elements](https://github.com/haikalrfli11/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
