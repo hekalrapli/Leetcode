@@ -80,6 +80,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/haikalrfli11/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/haikalrfli11/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/haikalrfli11/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -121,6 +122,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/haikalrfli11/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/haikalrfli11/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/haikalrfli11/Leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/haikalrfli11/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -234,6 +236,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/haikalrfli11/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/haikalrfli11/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
