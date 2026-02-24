@@ -42,6 +42,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/haikalrfli11/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/haikalrfli11/Leetcode/tree/master/0890-lemonade-change) |
+| [0890-find-and-replace-pattern](https://github.com/haikalrfli11/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0931-minimum-falling-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -113,6 +114,7 @@
 | [0575-distribute-candies](https://github.com/haikalrfli11/Leetcode/tree/master/0575-distribute-candies) |
 | [0740-delete-and-earn](https://github.com/haikalrfli11/Leetcode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/haikalrfli11/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/haikalrfli11/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -178,6 +180,7 @@
 | [0782-jewels-and-stones](https://github.com/haikalrfli11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/haikalrfli11/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/haikalrfli11/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-find-and-replace-pattern](https://github.com/haikalrfli11/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haikalrfli11/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1143-longest-common-subsequence](https://github.com/haikalrfli11/Leetcode/tree/master/1143-longest-common-subsequence) |
