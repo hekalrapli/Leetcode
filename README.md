@@ -54,6 +54,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/haikalrfli11/Leetcode/tree/master/1390-four-divisors) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/haikalrfli11/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1441-build-an-array-with-stack-operations](https://github.com/haikalrfli11/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -117,6 +118,7 @@
 | [0890-find-and-replace-pattern](https://github.com/haikalrfli11/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/haikalrfli11/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/haikalrfli11/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/haikalrfli11/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -184,6 +186,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haikalrfli11/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0986-largest-time-for-given-digits](https://github.com/haikalrfli11/Leetcode/tree/master/0986-largest-time-for-given-digits) |
 | [1143-longest-common-subsequence](https://github.com/haikalrfli11/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/haikalrfli11/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1524-string-matching-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/haikalrfli11/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -214,6 +217,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/haikalrfli11/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/haikalrfli11/Leetcode/tree/master/1137-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/haikalrfli11/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/haikalrfli11/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/haikalrfli11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -553,4 +557,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Ordered Set
+|  |
+| ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/haikalrfli11/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 <!---LeetCode Topics End-->
