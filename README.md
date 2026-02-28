@@ -89,6 +89,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/haikalrfli11/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/haikalrfli11/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/haikalrfli11/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-find-words-containing-character](https://github.com/haikalrfli11/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -131,6 +132,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/haikalrfli11/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/haikalrfli11/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -338,6 +340,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/haikalrfli11/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
