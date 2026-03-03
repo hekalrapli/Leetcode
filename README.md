@@ -191,6 +191,7 @@
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/haikalrfli11/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1524-string-matching-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/haikalrfli11/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/haikalrfli11/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/haikalrfli11/Leetcode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/haikalrfli11/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -268,6 +269,7 @@
 | [0566-reshape-the-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/haikalrfli11/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/haikalrfli11/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/haikalrfli11/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/haikalrfli11/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/haikalrfli11/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -473,6 +475,7 @@
 | [0206-reverse-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/haikalrfli11/Leetcode/tree/master/0486-predict-the-winner) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/haikalrfli11/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Game Theory
 |  |
 | ------- |
