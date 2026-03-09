@@ -178,6 +178,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haikalrfli11/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/haikalrfli11/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/haikalrfli11/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/haikalrfli11/Leetcode/tree/master/0072-edit-distance) |
 | [0451-sort-characters-by-frequency](https://github.com/haikalrfli11/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/haikalrfli11/Leetcode/tree/master/0742-to-lower-case) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/haikalrfli11/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/haikalrfli11/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/haikalrfli11/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/haikalrfli11/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/haikalrfli11/Leetcode/tree/master/0682-baseball-game) |
