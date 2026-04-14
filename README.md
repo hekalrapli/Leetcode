@@ -62,6 +62,7 @@
 | [1524-string-matching-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/haikalrfli11/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/haikalrfli11/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1603-running-sum-of-1d-array](https://github.com/haikalrfli11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1630-arithmetic-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1651-shuffle-string](https://github.com/haikalrfli11/Leetcode/tree/master/1651-shuffle-string) |
@@ -193,6 +194,7 @@
 | [1524-string-matching-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/haikalrfli11/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/haikalrfli11/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/haikalrfli11/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/haikalrfli11/Leetcode/tree/master/1651-shuffle-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/haikalrfli11/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -240,6 +242,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/haikalrfli11/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/haikalrfli11/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/haikalrfli11/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haikalrfli11/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/haikalrfli11/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -422,6 +425,7 @@
 | [0799-champagne-tower](https://github.com/haikalrfli11/Leetcode/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/haikalrfli11/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/haikalrfli11/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/haikalrfli11/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
