@@ -100,6 +100,7 @@
 | [3429-special-array-i](https://github.com/haikalrfli11/Leetcode/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/haikalrfli11/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3488-closest-equal-element-queries](https://github.com/haikalrfli11/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3819-rotate-non-negative-elements](https://github.com/haikalrfli11/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/haikalrfli11/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3488-closest-equal-element-queries](https://github.com/haikalrfli11/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haikalrfli11/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -174,6 +176,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/haikalrfli11/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/haikalrfli11/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haikalrfli11/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3488-closest-equal-element-queries](https://github.com/haikalrfli11/Leetcode/tree/master/3488-closest-equal-element-queries) |
 ## String
 |  |
 | ------- |
