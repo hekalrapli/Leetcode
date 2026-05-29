@@ -135,6 +135,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/haikalrfli11/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/haikalrfli11/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/haikalrfli11/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/haikalrfli11/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/haikalrfli11/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -211,6 +212,7 @@
 | [2727-number-of-senior-citizens](https://github.com/haikalrfli11/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/haikalrfli11/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/haikalrfli11/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/haikalrfli11/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/haikalrfli11/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haikalrfli11/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
