@@ -73,6 +73,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haikalrfli11/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/haikalrfli11/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/haikalrfli11/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2126-destroying-asteroids](https://github.com/haikalrfli11/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/haikalrfli11/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -237,6 +238,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/haikalrfli11/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haikalrfli11/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/haikalrfli11/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/haikalrfli11/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2887-sort-vowels-in-a-string](https://github.com/haikalrfli11/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -250,6 +252,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/haikalrfli11/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/haikalrfli11/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haikalrfli11/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/haikalrfli11/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/haikalrfli11/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
