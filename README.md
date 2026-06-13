@@ -103,6 +103,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/haikalrfli11/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/haikalrfli11/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3488-closest-equal-element-queries](https://github.com/haikalrfli11/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3689-maximum-total-subarray-value-i](https://github.com/haikalrfli11/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/haikalrfli11/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3819-rotate-non-negative-elements](https://github.com/haikalrfli11/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
@@ -256,6 +257,7 @@
 | [2126-destroying-asteroids](https://github.com/haikalrfli11/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/haikalrfli11/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/haikalrfli11/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3689-maximum-total-subarray-value-i](https://github.com/haikalrfli11/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
